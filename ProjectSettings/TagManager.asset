@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CameraStop
+  - PauseMenu
+  - UI
+  - Wall
+  - Obstacle
+  - PauseButton
+  - HealthBar
+  - Enemy
+  - AmmoCount
+  - DeathConditional
+  - LevelEnd
+  - Sound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Attackable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - EditorOnly
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3834820671
+    locked: 0
+  - name: BehindPlayer
+    uniqueID: 3888183393
+    locked: 0
+  - name: Player
+    uniqueID: 2738503757
+    locked: 0
+  - name: Foreground
+    uniqueID: 888610811
+    locked: 0
